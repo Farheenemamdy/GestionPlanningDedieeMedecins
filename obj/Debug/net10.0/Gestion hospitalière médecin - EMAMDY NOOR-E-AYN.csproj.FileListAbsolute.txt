@@ -1,0 +1,14 @@
+C:\Users\noore\Documents\POO\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN\bin\Debug\net10.0\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN.exe
+C:\Users\noore\Documents\POO\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN\bin\Debug\net10.0\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN.deps.json
+C:\Users\noore\Documents\POO\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN\bin\Debug\net10.0\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN.runtimeconfig.json
+C:\Users\noore\Documents\POO\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN\bin\Debug\net10.0\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN.dll
+C:\Users\noore\Documents\POO\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN\bin\Debug\net10.0\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN.pdb
+C:\Users\noore\Documents\POO\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN\obj\Debug\net10.0\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noore\Documents\POO\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN\obj\Debug\net10.0\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN.AssemblyInfoInputs.cache
+C:\Users\noore\Documents\POO\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN\obj\Debug\net10.0\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN.AssemblyInfo.cs
+C:\Users\noore\Documents\POO\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN\obj\Debug\net10.0\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN.csproj.CoreCompileInputs.cache
+C:\Users\noore\Documents\POO\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN\obj\Debug\net10.0\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN.dll
+C:\Users\noore\Documents\POO\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN\obj\Debug\net10.0\refint\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN.dll
+C:\Users\noore\Documents\POO\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN\obj\Debug\net10.0\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN.pdb
+C:\Users\noore\Documents\POO\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN\obj\Debug\net10.0\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN.genruntimeconfig.cache
+C:\Users\noore\Documents\POO\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN\obj\Debug\net10.0\ref\Gestion hospitalière médecin - EMAMDY NOOR-E-AYN.dll
